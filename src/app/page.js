@@ -1,3 +1,4 @@
+'use client'
 import Header from "@/Components/Header";
 import Main from "@/Components/Main";
 import Features from "@/Components/Features";
